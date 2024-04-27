@@ -21,8 +21,8 @@ Features of AI - Virtual HR Manager:
    
 ## Team Members
 
-- [Parth Thakkar](https://www.linkedin.com/in/parth-thakkar-5b4946230/)
 - [Tirth Patel](https://www.linkedin.com/in/tirthpatel-7ab9ba264/)
+- [Parth Thakkar](https://www.linkedin.com/in/parth-thakkar-5b4946230/)
 - [Neel Sheth](https://www.linkedin.com/in/neel-sheth-91b362262/) 
 - [Ayush Sutariya](https://www.linkedin.com/in/ayush-sutariya04/)
 
